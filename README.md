@@ -26,6 +26,7 @@ Users should be able to:
 
 - ReactJS (Create React App)
 - React Beautiful DnD
+- Tailwindcss
 
 ##How to run
 - Clone this repo.
