@@ -1,4 +1,4 @@
-import { DragDropContext, Droppable, Draggable } from "@hello-pangea/dnd";
+import { DragDropContext } from "@hello-pangea/dnd";
 import { useEffect, useState } from "react";
 import Header from "./assets/components/Header";
 import TodoComputed from "./assets/components/TodoComputed";
